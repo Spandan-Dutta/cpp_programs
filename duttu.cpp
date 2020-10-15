@@ -3,6 +3,7 @@
 using namespace std;
 int main()
 {
+	// hello world
 	int n,i;
 	cout << "Enter a number upto which u need natural numbers: ";
 	cin >> n;
